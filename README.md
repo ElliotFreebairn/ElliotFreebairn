@@ -2,6 +2,6 @@
 
 - Currently studying Computer Science at the University of Sheffield (1st year).
 - Working at Collabora Productivity on Collabora Online.
-- Interested in open source, building a game engine, and maths :)
+- Interested in open source, game engines, c++, and maths :)
 
 [LinkedIn](https://www.linkedin.com/in/elliot-freebairn-267491314/)
